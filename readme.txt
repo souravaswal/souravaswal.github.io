@@ -2,13 +2,7 @@
 
 DESCRIPTION:
 
-HackSociety is a group of passionate hackers and community enablers who :
-
-(1) Empower hackers to organise and attend cool hackathons around the country. Whether you are organising your first hackathon or the tenth edition of your annual one, we could help you with something or the other to make it better.
-
-(2) Try and create the ideal learning environment so that hackers can make the most out of their experience. As seasoned hackers, we know what brings the most joy to hackers and try our best to deliver that.(SWAG obviously)
-
-(3) We believe that hackathons are changing the world for the better and should be encouraged in all possible ways. We are trying to start the first ever hackathon league here in India to lead the hackathon revolution from front.
+This is a simple static webpage having introduction of myself. You can know about my professional career journey & get in touch with me.
 ==================================================================================================
 
 
